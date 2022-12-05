@@ -6,6 +6,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on GitHub
+
 - 🌱 I’m currently learning Front-end web development
+
 - 👯 I’m looking to collaborate on projects
 -->
