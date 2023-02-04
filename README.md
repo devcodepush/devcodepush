@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **projects**
 
-- 👨‍💻 All of my projects are available at [https://codepen.io/your-work/)
+- 👨‍💻 All of my projects are available at (https://codepen.io/your-work/)
 
 - 💬 Ask me about **HTML, CSS, GitHub, Git Bash**
 
