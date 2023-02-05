@@ -1,21 +1,18 @@
-<h1 align="center">Hi 👋, I'm Arman</h1>
-<h3 align="center">With some caution and moedsty, I can say: I am a developer</h3>
+<h1 align="center">name=Arman</h1>
+<h2 align="center">id=Christian</h2>
+<h3 align="center">Today I code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armanpartovi&label=Profile%20views&color=0e75b6&style=flat" alt="armanpartovi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armanpartovi" alt="armanpartovi" /></a> </p>
 
-- 🔭 I’m currently working on [personal portfolio](https://armanpartovi.github.io/Personal-Portfolio-Webpage/)
-
-- 🌱 I’m currently learning **Frontend development**
+- 🔭 I’m currently working on my [personal portfolio](https://armanpartovi.github.io/Personal-Portfolio-Webpage/)
 
 - 👯 I’m looking to collaborate on **projects**
 
 - 👨‍💻 All of my projects are available at (https://codepen.io/your-work/)
 
-- 💬 Ask me about **HTML, CSS, GitHub, Git Bash**
-
-- 📄 Know about my experiences [https://filmfreeway.com/projects/2145296](https://filmfreeway.com/projects/2145296)
+- 📄 my pre-coding story [I see](https://filmfreeway.com/projects/2145296)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
