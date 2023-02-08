@@ -2,10 +2,6 @@
 <h2 align="center">id=Christian</h2>
 <h3 align="center">Today I code.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=armanpartovi&label=Profile%20views&color=0e75b6&style=flat" alt="armanpartovi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armanpartovi" alt="armanpartovi" /></a> </p>
-
 - 🔭 I’m currently working on my [personal portfolio Page](https://armanpartovi.github.io/Personal-Portfolio-Webpage/)
 
 - 👯 I’m looking to collaborate on **projects**
