@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on my e-commerce project [personal portfolio Page](https://armanpartovi.github.io/Personal-Portfolio-Webpage/)
 
-- 👯 I’m looking to collaborate on **projects**
+- 👯 I’m looking to collaborate on **projects** as a software developer.
 
-- 👨‍💻 All of my projects are available at [GitHub repositories](https://github.com/devcodepush)
+- 👨‍💻 All of my projects are available at my personal [GitHub repositories](https://github.com/devcodepush)
 
 - 👨 My main shooling and background are in 2 majors: BSc performing arts & cinema + Frontend developement Bootcamp certificate
 
