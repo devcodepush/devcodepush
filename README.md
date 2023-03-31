@@ -2,17 +2,16 @@
 <h2 align="center">id=Christian</h2>
 <h3 align="center">Today I code.</h3>
 
-- 🔭 I’m currently working on my [personal portfolio Page](https://armanpartovi.github.io/Personal-Portfolio-Webpage/)
+- 🔭 I’m currently working on my e-commerce project [personal portfolio Page](https://armanpartovi.github.io/Personal-Portfolio-Webpage/)
 
 - 👯 I’m looking to collaborate on **projects**
 
-- 👨‍💻 All of my projects are available at [codepen](https://codepen.io/your-work/)
+- 👨‍💻 All of my projects are available at [GitHub repositories](https://github.com/devcodepush)
 
-- 👨 My certifications at [freecodecamp](https://www.freecodecamp.org/armanpartovi)
+- 👨 My main shooling and background are in 2 majors: BSc performing arts & cinema + Frontend developement Bootcamp certificate
 
-- 📄 my pre-coding story at [filmfreeway](https://filmfreeway.com/projects/2145296)
+- 📄 Check out my pre-coding cinematic story at [filmfreeway](https://filmfreeway.com/projects/2145296).
 
-- 💻 Linguist and translator at [LWL ministry](https://lifewithoutlimbs.org/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
