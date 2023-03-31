@@ -2,7 +2,7 @@
 <h2 align="center">id=Christian</h2>
 <h3 align="center">sharing and learning is my main interest.</h3>
 
-- 🔭 I’m currently working on my e-commerce project [personal portfolio Page](https://armanpartovi.github.io/Personal-Portfolio-Webpage/)
+- 🔭 I’m currently working on my [e-commerce project] (https://devcodepush.github.io/e-commerce-project-online-book-store-/)
 
 - 👯 I’m looking to collaborate on **projects** as a software developer.
 
