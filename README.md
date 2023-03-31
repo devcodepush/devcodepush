@@ -1,5 +1,4 @@
 <h1 align="center">name=Arman</h1>
-<h2 align="center">id=Christian</h2>
 <h3 align="center">sharing and learning is my main interest.</h3>
 
 - 🔭 I’m currently working on my [e-commerce project](https://devcodepush.github.io/e-commerce-project-online-book-store-/)
