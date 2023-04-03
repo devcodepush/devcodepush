@@ -7,7 +7,7 @@
 
 - All of my projects are available at my personal [GitHub repositories](https://github.com/devcodepush)
 
-- My main shooling and background are in 2 majors: BSc performing arts & cinema + Frontend developement Bootcamp certificate
+- My main shooling and background are in 2 majors: BSc performing arts & cinema + Frontend developement Bootcamp 
 
 - My story before coming to tech world [filmfreeway](https://filmfreeway.com/projects/2145296).
 
