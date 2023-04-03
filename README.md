@@ -9,7 +9,7 @@
 
 - My main shooling and background are in 2 majors: BSc performing arts & cinema + Frontend developement Bootcamp certificate
 
-- Check out my pre-coding cinematic story at [filmfreeway](https://filmfreeway.com/projects/2145296).
+- My story before coming to tech world [filmfreeway](https://filmfreeway.com/projects/2145296).
 
 - Contact me: getintouchwithmedn@gmail.com
 
