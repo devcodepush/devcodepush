@@ -1,4 +1,3 @@
-<h1 align="center">name=Arman</h1>
 <h3 align="center">sharing and learning is my main interest.</h3>
 
 - I’m looking to collaborate on **projects** as a software developer.
