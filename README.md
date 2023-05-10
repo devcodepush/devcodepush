@@ -8,7 +8,7 @@ My name is Arman(Michael) and I´m a __Junior Software Developer__
 
 ## If you want to get in touch...
 
-📩 My email: getintouchwithmepu@gmail.com
+📩 My email: getintouchwithmedn@gmail.com
 
 
 
