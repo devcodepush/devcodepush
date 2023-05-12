@@ -1,6 +1,6 @@
 # Hello World👋
 
-My name is Arman(Michael) and I´m a __Junior Software Developer__
+My name is Michael and I´m a __Junior Software Developer__
 
 ## ⚡ Tech Stack
 
