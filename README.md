@@ -1,6 +1,5 @@
 # Hello World👋
-
-My name is Michael and I´m a __Junior Software Developer__
+Junior Software Developer
 
 ## ⚡ Tech Stack
 
