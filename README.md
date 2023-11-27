@@ -1,5 +1,5 @@
 # Hello World👋
-Junior Software Developer
+Junior Developer
 
 ## ⚡ Tech Stack
 
